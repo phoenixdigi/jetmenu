@@ -1,12 +1,12 @@
 {
-    "name": "phoenixdigi/jetmenu",
+    "name": "phoenixdigi/menu",
     "description": "",
     "type": "library",
     "license": "proprietary",
     "authors": [
         {
             "name": "ABC",
-            "email": "contact@yertty.com"
+            "email": "contact@abcxyz.com"
         }
     ],
     "minimum-stability": "dev",
