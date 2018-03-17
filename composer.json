@@ -1,0 +1,21 @@
+{
+    "name": "phoenixdigi/jetmenu",
+    "description": "",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.9"
+    },
+    "autoload": {
+        "files": [
+            "jet-menu.php"
+        ]
+    }
+}
